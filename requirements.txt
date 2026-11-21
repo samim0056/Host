@@ -1,1 +1,4 @@
 python-telegram-bot>=21,<23
+firebase_admin
+pyotp
+bs4
